@@ -1,4 +1,4 @@
-# lottery_contracts
+# Inbox
 
 Simple inbox smart contract with mocha tests.
 
