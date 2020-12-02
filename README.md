@@ -1,4 +1,4 @@
-# lottery_contracts
+# Inbox
 
 Simple inbox solidity contract with mocha testing. 
 
